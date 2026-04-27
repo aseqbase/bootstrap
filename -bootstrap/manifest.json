@@ -1,0 +1,10 @@
+{
+    "Image":"plugin",
+    "Name":"Bootstrap",
+    "Description":"To add Bootstrap libraries",
+    "Access": 900000000,
+    "Reference": "aseqbase/bootstrap",
+    "PreInstalls": [],
+    "PostInstalls": [],
+    "MetaData":[]
+}

@@ -1,0 +1,2 @@
+<?php
+component("Bootstrap");
